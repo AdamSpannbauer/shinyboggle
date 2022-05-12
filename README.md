@@ -1,2 +1,2 @@
 # wordsearch
-(hopefully) a quick morning shiny app implementation of word search
+(hopefully) a quick morning shiny app implementation of boggle (letter game thing)
